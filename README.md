@@ -6,7 +6,11 @@ Maratona-Explorer-3.0
 
  Principais Tecnologias utilizadas 
   .Html
+  
   .Css
-  .Git 
+  
+  .Git
+  
   .GitHub
+  
   .GitPages
